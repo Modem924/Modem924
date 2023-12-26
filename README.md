@@ -1,4 +1,11 @@
-### Hi there 👋
+😄 Stony Brook University / CS major
+  
+⚡ Web service engineering / data engineering
+
+💼 Blog: https://donghasong.blogspot.com/ 
+  
+💬 Contact: gch04912@gmail.com
+
 
 <!--
 **Modem924/Modem924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
