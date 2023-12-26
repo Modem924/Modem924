@@ -2,9 +2,11 @@
   
 ⚡ Web service engineering / data engineering
 
+🏚️ Currently live in Seoul, Republic of Korea
+
 💼 Blog: https://donghasong.blogspot.com/ 
   
-💬 Contact: gch04912@gmail.com
+📞 Contact: gch04912@gmail.com
 
 
 <!--
