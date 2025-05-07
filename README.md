@@ -4,7 +4,7 @@
 
 🏚️ Currently live in Seoul, Republic of Korea
 
-💼 Blog: https://donghasong.blogspot.com/ 
+💼 Portfolio(KR): https://glow-bandana-210.notion.site/1592cd5f376f8069b41bf5d41415ce73?pvs=74
   
 📞 Contact: gch04912@gmail.com
 
